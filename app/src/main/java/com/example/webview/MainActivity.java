@@ -16,9 +16,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private WebView frameWeb;
     private ImageButton btn01, btn02, btn03, btn04;
     private static String URL_WEB1 ="https://www.google.com/";
-    private static String URL_WEB2 ="https://www.dicoding.com/";
-    private static String URL_WEB3 ="https://developer.android.com/";
-    private static String URL_WEB4 ="https://stmikroyal.ac.id/";
+    private static String URL_WEB2 ="https://github.com/";
+    private static String URL_WEB3 ="https://www.ui.ac.id/";
+    private static String URL_WEB4 ="https://www.ugm.ac.id/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
